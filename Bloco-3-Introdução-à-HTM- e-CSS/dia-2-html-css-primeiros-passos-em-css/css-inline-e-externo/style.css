@@ -1,0 +1,37 @@
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  p {
+    font-weight: 600;
+    font-size: 48px;
+    text-decoration: underline;
+  }
+  
+  body {
+    font-size: 16px;
+    text-align: center;
+    background-color: rgb(196, 255, 221);
+  }
+
+  #colorRosa {
+    font-style: normal;
+    color: white;
+    text-align: left;
+    background-color: rgb(230, 96, 223);
+  }
+
+  #colorVermelho {
+    font-style: italic;
+    color: white;
+    text-align: right;
+    background-color: red;
+  }
+
+  #colorMarrom {
+    font-style: oblique;
+    color: white;
+    text-align: center;
+    background-color: brown;
+  }
